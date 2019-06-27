@@ -105,11 +105,11 @@ Warnings like this are normal:
 
 ## Experiments
 
-1. Web Browser Monitor and Controller
+### 1. Web Browser Monitor and Controller
 
   Follow the doc: http://docs.donkeycar.com/guide/get_driving/.
 
-2. F710 Teleoperation
+### 2. F710 Teleoperation
 
   Source Code:
 
@@ -123,9 +123,10 @@ Warnings like this are normal:
   python manage.py drive --js
   ```
 
-2. Data collection
+### 3. Data collection
 
 
-3. Training
+### 4. Training
 
-4. Self-Driving
+
+### 5. Driving with the trained model
